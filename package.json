@@ -17,12 +17,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/huhsian/homebridge-snug-smart-ventilator.git"
+    "url": "git://github.com/KeiJeiYoon/homebridge-snug-smart-ventilator.git"
   },
   "bugs": {
-    "url": "http://github.com/huhsian/homebridge-snug-smart-ventilator/issues"
+    "url": "http://github.com/KeiJeiYoon/homebridge-snug-smart-ventilator/issues"
   },
-  "homepage": "https://github.com/huhsian/homebridge-snug-smart-ventilator#readme",
+  "homepage": "https://github.com/KeiJeiYoon/homebridge-snug-smart-ventilator#readme",
   "engines": {
     "node": ">=0.12.0",
     "homebridge": ">=0.2.0"
